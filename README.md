@@ -38,7 +38,7 @@ There are 4 SQL files in this project.
 
 ## ER Diagram
 
-![ER diagram](images/ERDiagram.png)
+![ER diagram](images/ER_Diagram.png)
 
 
 
