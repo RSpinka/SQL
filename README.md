@@ -26,13 +26,19 @@ There are 4 SQL files in this project.
 ## Results
 
 - Tables showing data after execution of the first three files:
+![table Customers](images/SQL_table1_Customers.png)
+![table Customers](images/SQL_table2_Suppliers.png)
+![table Customers](images/SQL_table3_Carriers.png)
+![table Customers](images/SQL_table4_Products.png)
+![table Customers](images/SQL_table5_Orders.png)
+![table Customers](images/SQL_table6_Deliveries.png)
 
 - Select result table of specific delivery with unit prices, quantity, total prices per item and with shipping costs and total delivery price
-
+![Select result](images/SQL_table7_select_result.png)
 
 ## ER Diagram
 
-
+![ER diagram](images/ERDiagram.png)
 
 
 
