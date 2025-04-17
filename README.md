@@ -6,7 +6,7 @@ This project demonstrates the creation and upating of tables in my Azure DB (MS 
 
 ## Files
 
-There are 4 SQL files in this project. 
+There are 5 SQL files in this project. 
 
 - The first file contains the code to create 6 tables ( [1_Creating_tables.sql](1_Creating_tables.sql) ): 
 
@@ -21,7 +21,9 @@ There are 4 SQL files in this project.
 
 - The third file updates two tables by adding another column, modifying constraints and inserting data ( [3_Adding_column.sql](3_Adding_column.sql) ).
 
-- The fourth file is a select script that displays data from several tables using JOINS to display a specific delivery, listing the items not in columns but in rows (using CROSS APLY as UnpivotTable) and two additional rows with the shipping cost and total price of the delivery (using UNION) ( [4_Select_total_price.sql](4_Select_total_price.sql) ).
+- The fourth file is a SELECT script that displays data from several tables using JOINS to display a specific delivery, listing the items not in columns but in rows (using CROSS APLY as UnpivotTable) and two additional rows with the shipping cost and total price of the delivery (using UNION) ( [4_Select_total_price.sql](4_Select_total_price.sql) ).
+
+- In the fifth file  there are various SELECTs containing DISTINCT, GROUP BY, ORDER BY, JOIN, WHERE, HAVING and aggregate functions.
 
 ## Results
 
